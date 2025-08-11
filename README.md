@@ -27,6 +27,48 @@ This project helps me practice foundational Python skills and can be extended fu
 * Generating report cards
 
 
+
+
+THE DEMO OF PROJECT
+
+🧮 Welcome to the Student Result Checker Program!
+This program will take the marks of 6 subjects from you,
+check your pass/fail status in each subject, calculate your overall percentage,
+and tell you if you have passed overall.
+
+Please enter your marks out of 100 for each subject.
+
+Enter the marks for English: 86
+Enter the marks for Python Language: 99
+Enter the marks for C# Language: 56
+Enter the marks for Mathematics: 78
+Enter the marks for Physics: 42
+Enter the marks for Chemistry: 29
+========================================
+Here are your results in each subject:
+========================================
+✅ You have passed in English with 86 marks.
+✅ You have passed in Python Language with 99 marks.
+✅ You have passed in C# Language with 56 marks.
+✅ You have passed in Mathematics with 78 marks.
+✅ You have passed in Physics with 42 marks.
+❌ You have failed in Chemistry with 29 marks.
+   Don't worry! You can try again and improve.
+========================================
+Overall Performance Summary:
+========================================
+🎯 Total Marks Obtained: 390 out of 600
+📊 Percentage: 65.00%
+🎉 Congratulations! You have passed overall based on percentage.
+========================================
+Thank you for using the Student Result Checker Program!
+We wish you the best of luck in your studies! ❤
+========================================
+the program is ended....
+PS C:\Users\shahz\OneDrive\Desktop\python
+
+
+
 **Thank you for visiting my repository!**
 — Shahzeb Ahmed
 
